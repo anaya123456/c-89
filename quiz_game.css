@@ -1,0 +1,38 @@
+
+
+body
+{
+	background: "https://images.pexels.com/photos/2440471/pexels-photo-2440471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2";
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(227, 132, 129);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 50%;
+}
+#word_display
+{
+	letter-spacing: 4px;
+}
+#output
+{
+background: rgb(165, 187, 209);
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
